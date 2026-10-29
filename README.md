@@ -1,6 +1,6 @@
 ## Flight software and embedded systems
 
-CS B.S., December 2027. **U.S. citizen, clearance-eligible.**
+ SWE B.S., December 2027. **U.S. citizen, clearance-eligible.**
 Looking for a **Summer 2027 internship** in flight software, firmware, or GNC.
 
 Attitude estimation, flight controllers, and vehicle dynamics — multirotors,
