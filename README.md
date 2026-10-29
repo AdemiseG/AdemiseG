@@ -41,8 +41,9 @@ nearly invalidated the results.
 
 ### Currently
 
-- Porting the attitude estimator to C on a Teensy 4.1 with a real IMU —
-  same algorithm, actual sensor noise, no simulator to fall back on
+- Bringing the attitude estimator up on a Teensy 4.1 with a real IMU. The
+  filter is already ported to allocation-free C and reproduces the Python
+  results exactly; what remains is the I2C driver and the sampling loop
 - Working through ArduPilot issues to get deeper into the codebase
 
 ### Tools
