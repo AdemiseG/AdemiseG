@@ -7,7 +7,7 @@ Attitude estimation, flight controllers, and vehicle dynamics — multirotors,
 eVTOL, and anything that has to know which way is up without being told.
 
 
-antoniogarcia41624@gmail.com · [LinkedIn]()
+antoniogarcia41624@gmail.com · [LinkedIn](https://www.linkedin.com/in/antonio-garcia-a2928a331/)
 
 ---
 
