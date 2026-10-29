@@ -32,7 +32,7 @@ large share of commercial and research UAVs.
 
 | | |
 |---|---|
-| **[attitude-estimator](https://github.com/AdemiseG/attitude-estimator)**<br>Complementary filter estimating roll and pitch from gyro and accelerometer, scored against ArduCopter SITL ground truth. 3.75° roll / 6.32° pitch RMS over a 176 s flight, against 52°/156° for raw gyro integration. Includes the script that generates the flight data, and a writeup of the two mistakes that nearly invalidated the results. | <img src="https://raw.githubusercontent.com/AdemiseG/attitude-estimator/main/result.png" width="320"> |
+| **[attitude-estimator](https://github.com/AdemiseG/attitude-estimator)**<br>Complementary filter estimating roll and pitch from gyro and accelerometer, scored against ArduCopter SITL ground truth. 3.75° roll / 6.32° pitch RMS over a 176 s flight, against 52°/156° for raw gyro integration. Includes the script that generates the flight data, and a writeup of the two mistakes that nearly invalidated the results. | <img src="https://raw.githubusercontent.com/AdemiseG/attitude-estimator/main/thumb.png" width="420"> |
 
 ### Currently
 
