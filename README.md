@@ -6,9 +6,8 @@ Looking for a **Summer 2027 internship** in flight software, firmware, or GNC.
 Attitude estimation, flight controllers, and vehicle dynamics — multirotors,
 eVTOL, and anything that has to know which way is up without being told.
 
-<!-- Optional, add when you have them:
-<your.email@example.com> · [résumé](link) · [LinkedIn](link)
--->
+
+antoniogarcia41624@gmail.com · [LinkedIn]()
 
 ---
 
