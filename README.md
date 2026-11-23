@@ -1,6 +1,7 @@
 ## Flight software and embedded systems
 
- Econ B.A. & CS minor @ Loyola Chicago, December 2027 graduation. 
+ SWE @ Loyola Chicago, December 2027 graduation. 
+
 
 Attitude estimation, flight controllers, and vehicle dynamics — multirotors,
 eVTOL, and anything that has to know which way is up without being told.
